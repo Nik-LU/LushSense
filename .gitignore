@@ -1,0 +1,53 @@
+# Kotlin / Gradle
+.kotlin/
+.gradle/
+**/build/
+!src/**/build/
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+gradle-app.setting
+.gradletasknamecache
+
+# Android Studio and local Android configuration
+*.iml
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+output-metadata.json
+*.jks
+*.keystore
+google-services.json
+*.hprof
+
+# Xcode / Swift
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+.build/
+
+# macOS
+.DS_Store
+.localized
+._*
+__MACOSX/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+http-client.private.env.json
+
+# JavaScript tooling, if added locally
+node_modules/

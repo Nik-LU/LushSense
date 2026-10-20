@@ -1,0 +1,9 @@
+"app_name" = "LushSense";
+"chat_subtitle" = "Анализ тональности";
+"welcome_tagline" = "Читаем между строк.";
+"welcome_action" = "Перейти в чат";
+"welcome_description" = "Анализ тональности русскоязычного текста";
+"chat_empty_state" = "Напиши фразу — я оценю её тональность";
+"chat_input_placeholder" = "Напиши фразу…";
+"chat_loading" = "Определяем тональность…";
+"chat_confidence" = "Уверенность: %d%%";

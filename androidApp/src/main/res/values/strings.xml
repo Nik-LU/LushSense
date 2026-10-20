@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LushSense</string>
+    <string name="chat_title">LushSense</string>
+    <string name="chat_subtitle">Анализ тональности</string>
+    <string name="welcome_tagline">Читаем между строк.</string>
+    <string name="welcome_action">Перейти в чат</string>
+    <string name="welcome_description">Анализ тональности русскоязычного текста</string>
+    <string name="chat_empty_state">Напиши фразу — я оценю её тональность</string>
+    <string name="chat_input_placeholder">Напиши фразу…</string>
+    <string name="chat_loading">Определяем тональность…</string>
+    <string name="chat_confidence">Уверенность: %1$d%%</string>
+    <string name="content_description_back">Назад</string>
+    <string name="content_description_clear">Очистить</string>
+    <string name="content_description_send">Отправить</string>
+</resources>
